@@ -29,6 +29,6 @@ public class Mitglied {
     public ArrayList<Kurs> getKurs(){
         return kurse;
     } //ist das das selbe wie in mitgliedmanager liste
-    // Methoden
+    // Methodenjh
 
 }
