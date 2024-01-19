@@ -9,7 +9,7 @@ public class Mitglied {
 
     public String Geschlecht;
 
-    private ArrayList<Kurs> kurse;
+    public ArrayList<Kurs> kurse;
 
     //Konstruktor
     public Mitglied(int Mitgliednummer, String Name, String Geburtsdatum, String Geschlecht) {
@@ -28,9 +28,7 @@ public class Mitglied {
     }
     public ArrayList<Kurs> getKurs(){
         return kurse;
-    }
+    } //ist das das selbe wie in mitgliedmanager liste
     // Methoden
-    public void mitgliedAendern() {
-    }// Was kommt in die Klammer ?
 
 }

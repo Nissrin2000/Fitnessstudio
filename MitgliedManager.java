@@ -1,6 +1,6 @@
 import java.util.ArrayList;
 
-public class MitgliedManager { //
+public class MitgliedManager {
     //Attribute
     public ArrayList<Mitglied> mitgliedListe;
     public ArrayList<Kurs> kursListe;

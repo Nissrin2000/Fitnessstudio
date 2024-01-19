@@ -32,6 +32,6 @@ public class Kurs {
 
     public ArrayList<Mitglied> getKursMitgliederListe() { //Liste soll zurückgegeben werden deswegen return, anstelle von Kursanzeigen weil kein Sinn so
         return kursMitgliederListe;
-    }
+    } //zuordnen der Mitglieder
 }
 
