@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Fitnessstudio:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Fitnessstudio_jar</output-path>
+    <root id="archive" name="Fitnessstudio.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+      </element>
+    </root>
+  </artifact>
+</component>
