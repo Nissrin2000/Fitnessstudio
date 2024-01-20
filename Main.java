@@ -3,7 +3,7 @@ import java.awt.*;
 import java.io.*;
 import java.util.ArrayList;
 import java.util.Arrays;
-
+//Muss noch angepasst werden
 public class Main {
     public static void main(String[] args) {
         //csv, Gui, Mitgliedmanager kommt rein
