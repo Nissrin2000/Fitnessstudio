@@ -3,6 +3,7 @@ import java.util.ArrayList;
 public class Mitglied {
     // Eigenschaften
     public int Mitgliednummer;
+    
     public String Name;
 
     public String Geburtsdatum; // String oder int??
